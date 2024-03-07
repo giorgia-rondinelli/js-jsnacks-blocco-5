@@ -20,6 +20,8 @@ JSnack
 - crea una nuova stringa con l'array con join
 - restituisce la parola invertita 
 
+## jsnack4
+- creo due array con lo stesso numero di elementi 
 
 
 
