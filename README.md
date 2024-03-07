@@ -13,6 +13,16 @@ JSnack
 - uso filter per creare 2 array in cui divido le zucchine con lunghezza =>15 e <15
 - uso il ciclo foreach per sommare separatamente i pesi dei due array 
 
+## jsnack3
+- creo una funzione che accetta una parola da un prompt
+- trasforma la stringa in un array con split
+- inverte l'array con reverse 
+- crea una nuova stringa con l'array con join
+- restituisce la parola invertita 
+
+
+
+
 
 
 
