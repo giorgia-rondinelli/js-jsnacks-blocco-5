@@ -23,6 +23,14 @@ JSnack
 ## jsnack4
 - creo due array con lo stesso numero di elementi 
 
+## jsnack5
+- creo un array
+- creo una variabile con un numero pari alla lunghezza dell'array e una variabile con un numero inferiore alla precedente 
+- utilizzo filter per creare un nuovo array in cui inserire solo gli elementi dell'array di partenza i cui indici sono compresi tra quelli indicati dalle variabili che ho creato 
+
+
+
+
 
 
 
